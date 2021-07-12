@@ -1,0 +1,4 @@
+/lda_user_sequences.model
+/lda_user_sequences.model.expElogbeta.npy
+/lda_user_sequences.model.id2word
+/lda_user_sequences.model.state

@@ -1,0 +1,4 @@
+outs:
+- md5: 4d51f7fa18b8df7cb499eb667f769395
+  size: 4426379
+  path: lda_user_sequences.model

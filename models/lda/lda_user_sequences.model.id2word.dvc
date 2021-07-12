@@ -1,0 +1,4 @@
+outs:
+- md5: df122b30e62fc28528b6322ee07f25b4
+  size: 42402094
+  path: lda_user_sequences.model.id2word
