@@ -1,0 +1,16 @@
+inflection
+apache-sedona
+folium
+fiona
+openpyxl
+geopandas
+mapclassify
+shapely
+nb_black
+memory_profiler
+line_profiler
+unidecode
+unicode
+chardet
+iso18245
+emoji

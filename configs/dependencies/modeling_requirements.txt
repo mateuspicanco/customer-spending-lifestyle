@@ -1,0 +1,7 @@
+nb_black
+gensim
+scikit-plot
+umap
+hdbscan
+yellowbrick
+top2vec
