@@ -1,0 +1,4 @@
+outs:
+- md5: 5d0f027f333e8ec7d58969a7b8a206f8
+  size: 2354626737
+  path: card_transactions.csv
