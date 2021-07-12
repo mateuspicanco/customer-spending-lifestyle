@@ -1,4 +1,4 @@
-# Identifying Lifestyle Patterns in Credit Card Spending
+# Identifying Lifestyle Patterns in Credit Card Spending :credit_card:
 
 This project aims at illustrating novel approaches to customer segmentation using Credit Card Records (CCRs) by leveraging modeling techniques similar that of text mining tasks. It is based on the [Sequences of purchases in credit card data reveal lifestyles in urban populations](https://www.nature.com/articles/s41467-018-05690-8) by Clemente Et al, that elucidates patterns in sequences credit card transactions in different merchant categories as a means of uncovering user lifestyles when verifying results on sociodemographic data about the users.
 
@@ -40,21 +40,20 @@ The plots below illustrate a few of the results obtained:
 > Frequency of transactions in different merchant categories identified in LDA clusters.
 
 ## Characterizing the Clusters
-The following clusters were identified and characterized:
 
-### Cluster 0: The Car Owners
+### Cluster 0: The Car Owners :car:
 These users differ from the other groups as they have regular expenses associated with **owning a car** (`toll fees`, `gas stations`), while spending less in categories that point out to **not owning a car** (`car rentals`, `taxi`, `uber and other ride-sharing services`). Interestingly, they seem comfortable with making online purchases.
 
-### Cluster 1: The Providers
+### Cluster 1: The Providers :moneybag:
 These users are mainly distinguished by the recurrence of costs associated with `money orders and transfers` and quite regular spending behaviors in the other categories. This behavior seems to suggest that they are both spending regularly in order situations but also use `money order and transfer` services more often than the average user. These might be financially maintaining other people (perhaps a son or daughter) abroad or in another context that requires such services.
 
-### Cluster 2: The Average "User"
+### Cluster 2: The Average "User" :grimacing:
 This group of users represents the regular user base. They don't display any specific distinguishing behavior and are characterizing by using their credit card on a variety of situations. In real world scenarios, this kind of cluster often shows up, and it is a regular pattern. The researchers in the [paper](https://www.nature.com/articles/s41467-018-05690-8) used as motivation for this project also concluded on the existing of an "average" cluster.
 
-### Cluster 3: The Uber Rider
+### Cluster 3: The Uber Rider :taxi:
 This group is mainly characterized by recurrent expenses with **private transportation** (namely `private ride-sharing` and `taxis`), given their spending on different categories and preferred methods of payment (`online` transactions are more significant in this group). They regularly use these alternatives to commute to work in the `mornings` (more frequent use of credit cards in the morning) and to generally get around town (`afternoon` expenses are also significant).
 
-### Cluster 4: The Dine-outs
+### Cluster 4: The Dine-outs :cocktail:
 This cluster is distinguished by the recurrent expenses in **dine-out experiences** (`restaurants`, `fast food places`). They are likely younger people who are living alone, as they still likely don't own a car (regular expenses on `commuting` and `public transportation`).
 
 
