@@ -19,10 +19,13 @@ The dataset used for this project was provided by IBM researchers in [this link]
 The plots below illustrate a few of the results obtained:
 
 ![LDA Clusters Example](reports/img/LDA_CLUSTERS.png)
-> Example of the clusters identified by the LDA topic model over the UMAP projection;
+> Example of the clusters identified by the LDA topic model over the UMAP projection.
 
 ![LDA Topic Distance Map](reports/img/LDA_PREM_MODEL_SCREEN.png)
-> Inter-topic distance map on PCA projections for the clusters (topics) identified;
+> Inter-topic distance map on PCA projections for the clusters (topics) identified.
+
+![Summary of LDA Results over the Different MCCs](reports/img/AVERAGE_FREQ_MCC_LDA.png)
+> Frequency of transactions in different merchant categories identified in LDA clusters.
 
 
 
