@@ -1,0 +1,4 @@
+outs:
+- md5: b12f696de0fc81d67882187e19ed715b
+  size: 36885708
+  path: tb_user_daily_sequence.parquet

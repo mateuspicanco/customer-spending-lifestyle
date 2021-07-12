@@ -1,0 +1,4 @@
+outs:
+- md5: 5553c61fc135b421e8b76c0daa23971e
+  size: 35209
+  path: tb_user_umap_embeddings.parquet

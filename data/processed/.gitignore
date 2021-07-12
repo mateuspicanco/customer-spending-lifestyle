@@ -1,0 +1,7 @@
+/tb_timeline.parquet
+/tb_transactions.parquet
+/tb_user_daily_sequence.parquet
+/tb_user_embeddings.parquet
+/tb_user_history.parquet
+/tb_user_token_history.parquet
+/tb_user_umap_embeddings.parquet

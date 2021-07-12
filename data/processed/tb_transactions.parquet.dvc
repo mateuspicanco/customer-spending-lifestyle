@@ -1,0 +1,4 @@
+outs:
+- md5: 29e97910752c9be5b8a7c9d3e808c573
+  size: 253628432
+  path: tb_transactions.parquet

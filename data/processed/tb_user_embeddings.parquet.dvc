@@ -1,0 +1,4 @@
+outs:
+- md5: 3f59b80d77d32a3cca58d1d0ad80655c
+  size: 1598971
+  path: tb_user_embeddings.parquet
